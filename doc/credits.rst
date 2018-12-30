@@ -625,6 +625,7 @@ Following people have contributed to translation of phpMyAdmin:
     *  <pma\_at\_sebastianmendel.de>
     * Phillip Rohmberger <rohmberger\_at\_hotmail.de>
     * Hauke Henningsen <sqrt\_at\_entless.org>
+    * Adrian Nöthlich <translate\_at\_promasu.tech>
 
 * Greek
 
